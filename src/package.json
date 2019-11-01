@@ -1,6 +1,6 @@
 {
-  "name": "nodejsku",
-  "version": "1.0.1",
+  "name": "nodejs-express-sederhana",
+  "version": "1.0.0",
   "description": "ini aplikasi nodejs sederhana",
   "main": "index.js",
   "scripts": {
